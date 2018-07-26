@@ -1,0 +1,2880 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Colorado Rockies
+PRODID:-//Apple Inc.//Mac OS X 10.12.6//EN
+X-WR-CALDESC:Click the ADD TO CALENDAR button to sync the Rockies schedu
+ le to your calendar. You'll receive reminders before the games start\, i
+ ncluding where to watch and game/lineup details. \n
+X-APPLE-CALENDAR-COLOR:#1BADF8
+X-WR-TIMEZONE:America/Denver
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:MDT
+TZOFFSETTO:-0600
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:MST
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180826T161000
+UID:4fa61c99-c33d-4ee4-9273-df6526c6cb67
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_26_slnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_26_slnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _26_slnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ St. Louis Cardinals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180826T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180725T214000
+UID:31a360cd-cdf7-4db3-8c52-ea3303b2c0b0
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_25_houmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_25_houmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _25_houmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Houston Astros @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180725T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180527T161000
+UID:04b8caf7-9c6f-4f03-8cb6-127a2030a505
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_27_cinmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_27_cinmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _27_cinmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Cincinnati Reds @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180527T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180523T231000
+UID:07c08314-ff97-4b6f-9d08-9ea7d64dc280
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_23_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_23_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _23_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180523T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180605T201000
+UID:6ca74303-c1a2-4d35-ab16-21c9df090e28
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_05_colmlb_cinmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_05_colmlb_cinmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _05_colmlb_cinmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Cincinnati Reds
+DTSTART;TZID=America/Denver:20180605T171000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180530T214000
+UID:52d68e52-6a7d-4e11-8744-a573f983ebbe
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_30_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_30_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _30_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180530T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180908T211000
+UID:9442359d-1291-4883-947d-cbbc16acb108
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_08_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_08_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _08_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180908T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180802T141500
+UID:7ddcca64-2b02-4f31-96b5-138bdccc343d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_02_colmlb_slnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_02_colmlb_slnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _02_colmlb_slnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ St. Louis Cardinals
+DTSTART;TZID=America/Denver:20180802T111500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180601T214000
+UID:73f0e9bd-cf86-4d0d-a6c3-ff7ff5210c8a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_01_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_01_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _01_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180601T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180807T214000
+UID:386c0d39-595c-4e77-8f9a-85252f9457e8
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_07_pitmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_07_pitmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _07_pitmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Pittsburgh Pirates @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180807T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180805T151000
+UID:c9ea44f4-76b5-46a9-b362-a05ea14fef12
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_05_colmlb_milmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_05_colmlb_milmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _05_colmlb_milmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Milwaukee Brewers
+DTSTART;TZID=America/Denver:20180805T121000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180519T170500
+UID:cd9f4879-d4c2-444d-8c28-10c378e0f7c7
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_19_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_19_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _19_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180519T140500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180830T231000
+UID:ebb79ee5-73bc-4e04-8081-4733cc900de3
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_30_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_30_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _30_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180830T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180730T211000
+UID:fe0acfb4-30c8-4ad3-898d-eef23b7880e6
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_30_colmlb_slnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_30_colmlb_slnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _30_colmlb_slnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ St. Louis Cardinals
+DTSTART;TZID=America/Denver:20180730T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180821T214000
+UID:be0e6447-42d3-4a27-9881-2403fb33954e
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_21_sdnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_21_sdnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _21_sdnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Diego Padres @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180821T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180923T171000
+UID:12f01aec-5495-4594-aaf8-c69a07770dab
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_23_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_23_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _23_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180923T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180909T161000
+UID:5e9f41bc-7f58-47db-ac67-89f1804cc887
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_09_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_09_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _09_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180909T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180819T143500
+UID:701b3c67-7fa6-432e-b3c0-ef2a408dfda1
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_19_colmlb_atlmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_19_colmlb_atlmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _19_colmlb_atlmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Atlanta Braves
+DTSTART;TZID=America/Denver:20180819T113500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180615T210500
+UID:223500a7-9970-4ddf-9399-8c4c145cf2bb
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_15_colmlb_texmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_15_colmlb_texmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _15_colmlb_texmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Texas Rangers
+DTSTART;TZID=America/Denver:20180615T180500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180928T211000
+UID:946d2d92-ef65-4b33-93f6-f4ecead060ec
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_28_wasmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_28_wasmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _28_wasmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Washington Nationals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180928T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180721T211000
+UID:5cf85d7a-5626-4015-892e-a243036c5326
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_21_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_21_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _21_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180721T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180607T133500
+UID:d7e50bb7-e38d-4a86-b664-d431b2721e12
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_07_colmlb_cinmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_07_colmlb_cinmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _07_colmlb_cinmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Cincinnati Reds
+DTSTART;TZID=America/Denver:20180607T103500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180731T211500
+UID:ea2870a3-3e39-4ea0-a762-b11c3944da7b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_31_colmlb_slnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_31_colmlb_slnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _31_colmlb_slnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ St. Louis Cardinals
+DTSTART;TZID=America/Denver:20180731T181500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180706T231000
+UID:3defbe93-289e-4e02-97d5-dad20ad57e20
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_06_colmlb_seamlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_06_colmlb_seamlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _06_colmlb_seamlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Seattle Mariners
+DTSTART;TZID=America/Denver:20180706T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180918T231000
+UID:7e74f0f4-1c68-4848-846b-ebf6e3526e73
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_18_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_18_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _18_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180918T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180708T171000
+UID:0e6fa9b1-53cd-4064-9ca2-1498026e080f
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_08_colmlb_seamlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_08_colmlb_seamlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _08_colmlb_seamlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Seattle Mariners
+DTSTART;TZID=America/Denver:20180708T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180913T161000
+UID:c6c8ccd0-3b77-490e-91d7-cb5c792a08a8
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_13_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_13_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _13_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180913T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180715T161000
+UID:6e5f0cb0-23f6-490d-aba8-a7b05c32bd4b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_15_seamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_15_seamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _15_seamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Seattle Mariners @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180715T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180929T211000
+UID:6c0f198c-0837-4d0a-bedf-b8dbb868ee10
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_29_wasmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_29_wasmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _29_wasmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Washington Nationals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180929T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180922T211000
+UID:2980f409-a582-45f9-a81f-e0973b6ac57d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_22_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_22_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _22_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180922T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180809T214000
+UID:ac397cb0-83b9-40ab-abc7-8b4dfd324afd
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_09_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_09_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _09_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180809T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180914T231500
+UID:73382213-4ed1-45bb-8e03-13e9d59aba6a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_14_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_14_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _14_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180914T201500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180724T214000
+UID:9ad1bd3f-55b9-4006-b3f3-3170b5f202e0
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_24_houmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_24_houmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _24_houmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Houston Astros @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180724T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180610T161000
+UID:0574994e-e8f2-4d4a-8b5f-fa3ace5074ea
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_10_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_10_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _10_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180610T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180904T214000
+UID:f135142a-27c7-48c0-a18c-7b234b54c3f3
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_04_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_04_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _04_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180904T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180930T161000
+UID:22aeaf3b-4365-4e57-b1dc-b777d3535cf7
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_30_wasmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_30_wasmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _30_wasmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Washington Nationals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180930T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180722T171000
+UID:fda71268-3008-4d74-9ab6-13af51d24a2e
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_22_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_22_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _22_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180722T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180825T211000
+UID:eb4eddd3-a7b4-4e1d-b8fd-bca37a9376ab
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_25_slnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_25_slnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _25_slnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ St. Louis Cardinals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180825T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180529T214000
+UID:87d0eb1f-46ef-49b8-9fff-b9662bf4f860
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_29_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_29_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _29_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180529T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180602T201500
+UID:47937799-51c7-4464-b31e-eaf72a7ec5b7
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_02_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_02_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _02_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180602T171500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180701T171000
+UID:a48c6c37-98de-4a58-9393-33ffa9c629cb
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_01_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_01_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _01_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180701T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180814T211000
+UID:bb4ea498-ec1e-4e05-98ec-bac1a949de6c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_14_colmlb_houmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_14_colmlb_houmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _14_colmlb_houmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Houston Astros
+DTSTART;TZID=America/Denver:20180814T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180521T231000
+UID:1e627fe3-b695-4a24-b5fb-284c2b1aa831
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)\, MLBN (Ch 420)\, ML
+ BHD (Ch 690)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_21_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_21_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _21_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180521T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180729T161000
+UID:d158f69d-1c22-4471-a9c2-1f19c4cce15c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_29_oakmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_29_oakmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _29_oakmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Oakland Athletics @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180729T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180522T231000
+UID:b101b36b-ae8a-44a7-948d-d0cc85de134c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ESPNHD (Ch 668)\, ESPND (Ch 309\, 609
+ )\, ATTRMHD (Ch 665)\, ESPN (Ch 034)\, ESPNDHD (Ch 363)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_22_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_22_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _22_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180522T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180608T214000
+UID:f33b0e58-4e0d-4146-885c-4781c9483d8a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_08_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_08_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _08_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180608T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180808T161000
+UID:66db6917-082e-4802-abeb-e4d70fc3e1b0
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_08_pitmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_08_pitmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _08_pitmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Pittsburgh Pirates @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180808T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180818T201000
+UID:8f53685d-c517-4490-8167-d789af0692fb
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_18_colmlb_atlmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_18_colmlb_atlmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _18_colmlb_atlmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Atlanta Braves
+DTSTART;TZID=America/Denver:20180818T171000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180528T201000
+UID:806a2b5e-7b00-47d5-a549-750899f3938d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ESPNHD (Ch 668)\, ATTRMHD (Ch 665)\, 
+ ESPN (Ch 034)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_28_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_28_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _28_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180528T171000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180822T214000
+UID:557b03cf-9816-4a3c-9d01-a6ef8f184b9b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_22_sdnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_22_sdnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _22_sdnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Diego Padres @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180822T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180711T214000
+UID:b6b76763-27eb-4ce9-b6dc-cddfca1af7db
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_11_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_11_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _11_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180711T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180617T160500
+UID:8bcd3ca8-3b09-4382-a71a-f71b4ca1600d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_17_colmlb_texmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_17_colmlb_texmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _17_colmlb_texmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Texas Rangers
+DTSTART;TZID=America/Denver:20180617T130500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180629T231000
+UID:30af1c15-60ae-4f76-b884-e18857959344
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_29_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_29_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _29_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180629T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180609T201500
+UID:2fc31a0e-fae9-4e5b-ba47-cf090f0be089
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_09_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_09_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _09_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180609T171500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180907T214000
+UID:e63a4ee3-42d5-42ff-9c52-baed7725ae05
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_07_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_07_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _07_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180907T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180619T214000
+UID:90f0007a-a2a7-44e7-9df9-52220ff65a80
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_19_nynmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_19_nynmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _19_nynmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ New York Mets @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180619T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180616T170500
+UID:87ca40ba-79ce-485d-a61e-0687c95e82b8
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_16_colmlb_texmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_16_colmlb_texmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _16_colmlb_texmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Texas Rangers
+DTSTART;TZID=America/Denver:20180616T140500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180620T214000
+UID:1111ba32-12f2-494d-9f38-0343c860c561
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_20_nynmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_20_nynmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _20_nynmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ New York Mets @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180620T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180603T161000
+UID:879c16ab-79e9-4222-a489-3e77d1178dc8
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_03_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_03_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _03_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180603T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180806T214000
+UID:1b67dab3-ed5a-4634-8b14-cea2117ddb8b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_06_pitmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_06_pitmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _06_pitmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Pittsburgh Pirates @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180806T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180917T231000
+UID:1d7b710e-48c6-45ae-b3ed-607f6095fef9
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_17_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_17_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _17_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180917T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180621T161000
+UID:ea291817-5cf8-4520-90e4-f1c801d8db9b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_21_nynmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_21_nynmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _21_nynmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ New York Mets @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180621T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180926T214000
+UID:e04dea5d-3dc3-4c12-8520-d74a97f89d27
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_26_phimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_26_phimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _26_phimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Philadelphia Phillies @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180926T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180816T203500
+UID:30b956b8-0765-4caa-b862-2892838375ac
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_16_colmlb_atlmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_16_colmlb_atlmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _16_colmlb_atlmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Atlanta Braves
+DTSTART;TZID=America/Denver:20180816T173500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180518T231500
+UID:541559fe-21c9-4ebd-b23b-472fec91263d
+DTSTAMP:20180519T080648Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_18_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_18_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _18_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180518T201500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180519T080648Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180831T231000
+UID:da10c4cc-ea17-4085-80bd-9d1e6b3b190a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_31_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_31_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _31_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180831T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180915T220500
+UID:c3830ed3-0595-422a-b237-5223fdaa071d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_15_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_15_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _15_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180915T190500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180817T203500
+UID:59668636-0f4e-4c01-8df1-0c3028aa2ee4
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_17_colmlb_atlmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_17_colmlb_atlmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _17_colmlb_atlmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Atlanta Braves
+DTSTART;TZID=America/Denver:20180817T173500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180801T211500
+UID:a26dab39-5e49-40f6-ac2f-36c4822f927d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_01_colmlb_slnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_01_colmlb_slnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _01_colmlb_slnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ St. Louis Cardinals
+DTSTART;TZID=America/Denver:20180801T181500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180902T171000
+UID:f688c5f1-e6e2-4c44-a5fc-90d23d857207
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_02_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_02_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _02_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180902T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180606T201000
+UID:4c25a348-cc6b-4103-8c3f-22e8908f54b2
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_06_colmlb_cinmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_06_colmlb_cinmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _06_colmlb_cinmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Cincinnati Reds
+DTSTART;TZID=America/Denver:20180606T171000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180823T161000
+UID:59443ce2-0b7f-4999-b71a-8251bed8c46f
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_23_sdnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_23_sdnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _23_sdnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Diego Padres @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180823T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180905T214000
+UID:ba8d7dee-87f0-49ec-9f9d-22b07465153f
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_05_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_05_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _05_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180905T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180710T214000
+UID:7285a1d9-b674-47a4-adc7-354dd8fc724e
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_10_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_10_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _10_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180710T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180921T224000
+UID:73f77e58-c797-458b-99f2-6877045f1706
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_21_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_21_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _21_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180921T194000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180612T200500
+UID:b926c371-c4ca-4121-9e0b-10ae80b8dded
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_12_colmlb_phimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_12_colmlb_phimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _12_colmlb_phimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Philadelphia Phillies
+DTSTART;TZID=America/Denver:20180612T170500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180728T211000
+UID:51cae420-3f02-47e1-abb5-166d45cc5f47
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_28_oakmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_28_oakmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _28_oakmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Oakland Athletics @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180728T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180910T214000
+UID:cb53bebb-d58a-4bad-874c-90942b1be8d5
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_10_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_10_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _10_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180910T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180919T231000
+UID:d6979214-221a-46da-bd3b-3b1bea16203a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_19_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_19_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _19_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180919T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180916T170500
+UID:3d4bc16c-88c0-4018-a4ea-c70777d00350
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_16_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_16_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _16_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180916T140500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180925T214000
+UID:d1b852ee-43cd-49f8-b5d1-e9e2175a1101
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_25_phimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_25_phimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _25_phimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Philadelphia Phillies @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180925T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180927T161000
+UID:1e4dbf43-525e-4796-8e44-5a88ddd3e59c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_27_phimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_27_phimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _27_phimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Philadelphia Phillies @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180927T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180613T200500
+UID:d3b63fda-fd3b-44fc-94f3-77657938fa55
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_13_colmlb_phimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_13_colmlb_phimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _13_colmlb_phimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Philadelphia Phillies
+DTSTART;TZID=America/Denver:20180613T170500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180622T214000
+UID:1771a730-3afb-40b5-95a9-feb647ef2a7b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_22_miamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_22_miamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _22_miamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Miami Marlins @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180622T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180720T224000
+UID:007d90f5-e9dd-4493-8b3d-ae17c73201c7
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_20_colmlb_arimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_20_colmlb_arimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _20_colmlb_arimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Arizona Diamondbacks
+DTSTART;TZID=America/Denver:20180720T194000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180614T140500
+UID:a9b83d13-765c-4141-a2f1-df0a6ecd2a27
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_14_colmlb_phimlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_14_colmlb_phimlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _14_colmlb_phimlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Philadelphia Phillies
+DTSTART;TZID=America/Denver:20180614T110500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180513T161000
+UID:b08930cd-cc74-4b0c-aeb2-bdc658835695
+DTSTAMP:20180514T080656Z
+LOCATION:FINAL: Brewers 7 - 3 Rockies
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_13_milmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_13_milmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _13_milmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Milwaukee Brewers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180513T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180514T080656Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180810T214000
+UID:6c0c648c-70ac-4e7f-a2da-5bfae7d86e55
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_10_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_10_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _10_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180810T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180520T170500
+UID:18eee48c-22ce-48ba-81bd-b358059c789f
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_20_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_20_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _20_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180520T140500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180912T214000
+UID:6c95f5fd-99c7-4fd4-8e02-14bfd541c521
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_12_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_12_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _12_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180912T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180626T231500
+UID:6b3a9e4b-d7d7-4ebf-b01d-33c30302921a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_26_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_26_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _26_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180626T201500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180514T231000
+UID:9f8e35f5-d3b2-4afd-9b70-0bcbc8ed9ce9
+DTSTAMP:20180515T081305Z
+LOCATION:FINAL: Rockies 6 - 4 Padres
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_14_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_14_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _14_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180514T201000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180515T081305Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180512T211000
+UID:444577d2-6ad1-4556-b789-187e660e9ffe
+DTSTAMP:20180513T081536Z
+LOCATION:FINAL: Brewers 0 - 4 Rockies
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_12_milmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_12_milmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _12_milmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Milwaukee Brewers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180512T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180513T081536Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180815T211000
+UID:7a7e206a-b58b-49e2-8185-b65ce9510da0
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_15_colmlb_houmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_15_colmlb_houmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _15_colmlb_houmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Houston Astros
+DTSTART;TZID=America/Denver:20180815T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180712T161000
+UID:cc1769f9-97d9-4d4f-ae6e-9a709db06a73
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_12_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_12_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _12_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180712T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180627T231500
+UID:fc4a4d90-36fe-4378-87dc-3523e318877f
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_27_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_27_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _27_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180627T201500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180901T214000
+UID:67cc0e7b-03ed-49c3-bdfe-cc9006d82299
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_01_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_01_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _01_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180901T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180623T161000
+UID:6e6378e4-4a30-4c9b-bc3e-67acf23a4f48
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_23_miamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_23_miamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _23_miamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Miami Marlins @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180623T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND:20180519T220339Z
+UID:dce73299-b1c8-4ab6-aaf3-cc0b0ff5c0fc
+DTSTAMP:20180519T215917Z
+LOCATION:Your calendar will be updated automatically when new events bec
+ ome available
+DESCRIPTION:\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsubscribe 
+ by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c84ab6aaf
+ 3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:0
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:You have successfully subscribed to the Colorado Rockies calenda
+ r
+DTSTART:20180519T215839Z
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180519T215917Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180630T201500
+UID:3a045835-27de-4145-9d3e-75f065fc24ec
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_30_colmlb_lanmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_30_colmlb_lanmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _30_colmlb_lanmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Dodgers
+DTSTART;TZID=America/Denver:20180630T171500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180811T211000
+UID:be14dbdc-caf2-4685-b4c8-b9430d344f6b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_11_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_11_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _11_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180811T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180812T161000
+UID:d871b869-9df4-4eac-b27d-cfee3707f694
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_12_lanmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_12_lanmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _12_lanmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Los Angeles Dodgers @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180812T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180525T214000
+UID:adcbcd3e-7176-45ed-8417-5e30eaf7ca03
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_25_cinmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_25_cinmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _25_cinmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Cincinnati Reds @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180525T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180517T231500
+UID:7565d410-77a7-4f4b-8ae5-b8c6311384d2
+DTSTAMP:20180518T081517Z
+LOCATION:FINAL: Rockies 5 - 3 Giants
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_17_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_17_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _17_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180517T201500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180518T081517Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180827T230700
+UID:932b5a33-e2f6-409b-8b7f-087530f05113
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_27_colmlb_anamlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_27_colmlb_anamlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _27_colmlb_anamlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Angels
+DTSTART;TZID=America/Denver:20180827T200700
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180618T214000
+UID:19286087-a712-48bc-ac90-fdaab8599890
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_18_nynmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_18_nynmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _18_nynmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ New York Mets @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180618T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180924T214000
+UID:f894ff51-29ba-47f4-8975-b8cf2de4d1ff
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_24_phimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_24_phimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _24_phimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Philadelphia Phillies @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180924T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180702T214000
+UID:15855291-ded3-4fce-8bb4-6fa730276159
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_02_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_02_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _02_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180702T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180903T161000
+UID:85ac0318-796b-4fad-aec5-dfd6e36a8f7c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_03_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_03_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _03_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180903T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180707T171000
+UID:1f882ce5-3cea-496e-be60-4a213dd74492
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_07_colmlb_seamlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_07_colmlb_seamlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _07_colmlb_seamlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Seattle Mariners
+DTSTART;TZID=America/Denver:20180707T141000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180515T164000
+UID:0f3506a0-7c74-4c37-ba60-60088ba36b4d
+DTSTAMP:20180516T080649Z
+LOCATION:FINAL: Rockies 0 - 4 Padres
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_15_colmlb_sdnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_15_colmlb_sdnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _15_colmlb_sdnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:2
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Diego Padres
+DTSTART;TZID=America/Denver:20180515T134000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180516T080649Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180828T230700
+UID:b72bdd36-a337-44d2-bb01-1480ac067525
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_28_colmlb_anamlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_28_colmlb_anamlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _28_colmlb_anamlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Los Angeles Angels
+DTSTART;TZID=America/Denver:20180828T200700
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180704T211000
+UID:c377d6da-dc99-49d6-a97f-6585ce72f9be
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_04_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_04_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _04_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180704T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180714T221000
+UID:7c307a83-73b7-4e7e-ac4e-857e6086d49c
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_14_seamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_14_seamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _14_seamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Seattle Mariners @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180714T191000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180703T211000
+UID:f2ff5073-fc19-4c0e-804c-5473dae8970b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_03_sfnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_03_sfnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _03_sfnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ San Francisco Giants @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180703T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180911T214000
+UID:2f5a40f4-dcfa-4d7e-9f0a-d97c6dbba249
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 9_11_arimlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_09_11_arimlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_09
+ _11_arimlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Arizona Diamondbacks @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180911T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180824T214000
+UID:51095cdf-a9ed-4fe5-85bb-723f3221f023
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_24_slnmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_24_slnmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _24_slnmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ St. Louis Cardinals @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180824T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180624T161000
+UID:9399896d-0c4c-4095-b6f2-6b1e8b6cbd4d
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_24_miamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_24_miamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _24_miamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Miami Marlins @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180624T131000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180804T201000
+UID:dd5bb82d-30b2-4342-95f3-3c397256d95b
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_04_colmlb_milmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_04_colmlb_milmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _04_colmlb_milmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Milwaukee Brewers
+DTSTART;TZID=America/Denver:20180804T171000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180713T214000
+UID:b2513660-634b-4cb5-a765-8c467d004470
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_13_seamlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_13_seamlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _13_seamlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Seattle Mariners @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180713T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180526T221000
+UID:bae1b4f0-1c15-423a-9a67-a7de50978582
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on ATTRM (Ch 026)\, ATTRMHD (Ch 665)
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 5_26_cinmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_05_26_cinmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_05
+ _26_cinmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Cincinnati Reds @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180526T191000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180628T164500
+UID:7cdddbb4-7b5e-4ae3-8e6b-c9d55672902a
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 6_28_colmlb_sfnmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_06_28_colmlb_sfnmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_06
+ _28_colmlb_sfnmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ San Francisco Giants
+DTSTART;TZID=America/Denver:20180628T134500
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180727T214000
+UID:35158c82-6a79-4e21-ab07-921d345a5ef2
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 7_27_oakmlb_colmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_07_27_oakmlb_colmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_07
+ _27_oakmlb_colmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Oakland Athletics @ Colorado Rockies
+DTSTART;TZID=America/Denver:20180727T184000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:TRANSPARENT
+DTEND;TZID=America/Denver:20180803T211000
+UID:ab81133b-361a-44ac-a53f-157f6b7cac58
+DTSTAMP:20180327T201553Z
+LOCATION:Watch on At Bat
+DESCRIPTION:iOS\nAt Bat users follow live: mlbatbat://game?gameId=2018_0
+ 8_03_colmlb_milmlb_1&partnerCode=calreply\nDownload At Bat here: http://
+ atmlb.com/1OMYfhI\n\nAndroid\nAt Bat users follow live: http://deeplink.
+ me/majorleaguebaseball.com/game?gameId=2018_08_03_colmlb_milmlb_1&partne
+ rCode=calreply\nDownload At Bat here: http://atmlb.com/1HYPNJX\n\nDeskto
+ p\nDesktop Gameday: http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2018_08
+ _03_colmlb_milmlb_1\n\nShare - http://calrep.ly/2ndqByB\n\nYou may unsub
+ scribe by following - http://mlbam.calreply.net/unsubscribe/dce73299b1c8
+ 4ab6aaf3cc0b0ff5c0fc\n\nPowered by CalReply - http://calrep.ly/poweredby
+SEQUENCE:1
+CLASS:PUBLIC
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:⚾️ Colorado Rockies @ Milwaukee Brewers
+DTSTART;TZID=America/Denver:20180803T181000
+CREATED:20180519T215918Z
+LAST-MODIFIED:20180327T201553Z
+END:VEVENT
+END:VCALENDAR
