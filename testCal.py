@@ -16,7 +16,7 @@ def AttachPNG(event, imgPath):
     event.add('ATTACH', attachval, parameters = paramdict)
 
 cal = Calendar()
-cal.add('prodid', '-//jbowCalPy')
+cal.add('prodid', '-//testCalPy')
 cal.add('version', '2.0')
 cal.add('calscale', 'GREGORIAN')
 
@@ -69,6 +69,6 @@ event.add_component(alarm)
 
 cal.add_component(event)
 
-calPath = "/Users/Bowen/Documents/calendar/jbcal.ics"
+calPath = "/Users/Bowen/Documents/calendar/testCal.ics"
 with open(calPath, 'wb') as f:
     f.write(cal.to_ical())
