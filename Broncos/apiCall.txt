@@ -1,0 +1,12 @@
+https://www.stanza.co/?category=5339d047dcf9e6534d405757&type=dead&file=/api/schedules/nfl-broncos/nfl-broncos.ics
+https://www.stanza.co/api/schedules/nfl-broncos/nfl-broncos.ics
+
+"Host": "www.stanza.co",
+"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv":52.0) Gecko/20100101 Firefox/52.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+"Accept-Language": "en-US,en;q=0.5",
+"Accept-Encoding": "gzip, deflate, br",
+"Cookie": "connect.sid=s%3A2JYOFcVmeGQw3rWZrWsYPHjA5PW4G2MV.FueyFd%2FlsbrfM56Uo74AePWINTnyhTx0QkTkdeBIf%2Bg; mp_mixpanel__c=0; mp_57b82d586f649d4bdce7421fb7392a4b_mixpanel=%7B%22distinct_id%22%3A%20%2216548ac3b4e5a6-0b9b424b66babc-47534130-144000-16548ac3b50487%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.stanza.co%2Fbutton%2Flaunch%3Fcalendar%3Dhttps%253A%252F%252Fspoton.it%252Fschedules%252Fnfl%252Fbroncos%26size%3Dlarge%26options%3Dticker%22%2C%22%24initial_referring_domain%22%3A%20%22www.stanza.co%22%2C%22sp_referrer%22%3A%20%22https%3A%2F%2Fwww.stanza.co%2F%3Fcategory%3D5339d047dcf9e6534d405757%26type%3Doutlook%22%2C%22sp_calendar%22%3A%20%22nfl-broncos%22%2C%22sp_source_app%22%3A%20%22recommendation%22%7D",
+"DNT": "1",
+"Connection": "keep-alive",
+"Upgrade-Insecure-Requests": "1"
