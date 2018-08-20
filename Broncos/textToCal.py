@@ -3,6 +3,7 @@ from icalendar import Calendar, Event, Alarm
 import datetime
 from dateutil import parser
 import pytz
+from pytz import timezone
 
 def InitCalWithPrelims():
     cal = Calendar()
@@ -34,6 +35,20 @@ def InitCalWithPrelims():
 
     return cal
 
+def AddByeWeek(cal):
+    tzStr = "America/Denver"
+    dt = datetime.datetime(2018,11,11,10,0,0)
+    event = Event()
+    event.add('dtstart', dt, {'TZID':tzStr})
+    event.add('dtend', dt, {'TZID':tzStr})
+
+    summary = 'Broncos Bye Week'
+    event.add('summary', summary)
+    AddAlarm(event, summary, 1440)    
+    AddAlarm(event, summary, 7200)
+
+    cal.add_component(event)
+
 def GetParamDict(field):
     pairs = field.split(";")
     params = {}
@@ -42,44 +57,55 @@ def GetParamDict(field):
         params[kv[0]] = kv[1]
     return params
 
+def AddAlarm(event, desc, minutesBefore):
+    alarm = Alarm()
+    alarm.add('action', 'DISPLAY')
+    alarm.add('DESCRIPTION', desc)
+    dur = icalendar.vDuration(datetime.timedelta(0, 0, 0, 0, -minutesBefore))
+    alarm.add('TRIGGER', dur)
+    event.add_component(alarm)
+
 def EventFromLine(line):
     fields = line.split('\t')
     event = Event()
-    dtstart = parser.parse(fields[0])
-    params = GetParamDict(fields[1])
+    params = GetParamDict(fields[0])
+    dtstart = parser.parse(fields[1])
     event.add('dtstart', dtstart, params)
 
-    dtend = parser.parse(fields[2])
-    params = GetParamDict(fields[3])
+    params = GetParamDict(fields[2])
+    dtend = parser.parse(fields[3])
     event.add('dtend', dtend, params)
 
-    event.add('summary', fields[4])
+    summary = fields[4].split(' ')
+    if summary[1] == "at":
+        summary[1] = "@"
+    else:
+        tmp = summary[0]
+        summary[0] = summary[2]
+        summary[2] = tmp
+        summary[1] = "@"
+        
+    event.add('summary', " ".join(summary))
     event.add('location', fields[5].replace('|', "\r\n"))
 
-    alarm = Alarm()
-    alarm.add('action', 'DISPLAY')
-    desc = "Rockies Home Game at " + dtstart.strftime("%I:%M %p")
-    alarm.add('DESCRIPTION', desc)
-    dur = icalendar.vDuration(datetime.timedelta(0, 0, 0, 0, -180))
-    alarm.add('TRIGGER', dur)
-    event.add_component(alarm)
+    desc = "Broncos Game " + dtstart.strftime("%I:%M %p")
+    AddAlarm(event, desc, 180)
+    AddAlarm(event, desc, 1440)
     
     return event
 
 cal = InitCalWithPrelims()
 
-dataPath = "/Users/Bowen/Documents/calendar/events.txt"
+dataPath = "/Users/Bowen/Documents/calendar/calendarCode/Broncos/events.txt"
 lines = []
 with open(dataPath) as f:
     f.readline()
     for line in f:
-        if line.find("Away") > -1:
-            continue
-
         event = EventFromLine(line.strip())
         cal.add_component(event)
-    
 
-calPath = "/Users/Bowen/Documents/calendar/RockiesHomeGames.ics"
+AddByeWeek(cal) 
+
+calPath = "/Users/Bowen/Documents/calendar/calendarCode/Broncos/BroncosGames.ics"
 with open(calPath, 'wb') as f:
     f.write(cal.to_ical())

@@ -1,0 +1,20 @@
+Params	DTSTART	Params	DTEND	SUMMARY	LOCATION
+TZID=America/Denver	2018-08-18 19:05:00-06:00	TZID=America/Denver	2018-08-18 22:05:00-06:00	Broncos vs Bears	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-08-24 17:30:00-06:00	TZID=America/Denver	2018-08-24 20:30:00-06:00	Broncos at Redskins	FedExField, 1600 Fedex Way, Landover, MD 20785	
+TZID=America/Denver	2018-08-30 20:00:00-06:00	TZID=America/Denver	2018-08-30 23:00:00-06:00	Broncos at Cardinals	University of Phoenix Stadium, 1 Cardinals Dr, Glendale, AZ 85305	
+TZID=America/Denver	2018-09-09 14:25:00-06:00	TZID=America/Denver	2018-09-09 17:25:00-06:00	Broncos vs Seahawks	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-09-16 14:25:00-06:00	TZID=America/Denver	2018-09-16 17:25:00-06:00	Broncos vs Raiders	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-09-23 11:00:00-06:00	TZID=America/Denver	2018-09-23 14:00:00-06:00	Broncos at Ravens	M&T Bank Stadium, 1101 Russell St, Baltimore, MD 21230	
+TZID=America/Denver	2018-10-01 18:15:00-06:00	TZID=America/Denver	2018-10-01 21:15:00-06:00	Broncos vs Chiefs	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-10-07 11:00:00-06:00	TZID=America/Denver	2018-10-07 14:00:00-06:00	Broncos at Jets	MetLife Stadium, 1 MetLife Stadium Dr, East Rutherford, NJ	
+TZID=America/Denver	2018-10-14 14:05:00-06:00	TZID=America/Denver	2018-10-14 17:05:00-06:00	Broncos vs Rams	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-10-18 18:20:00-06:00	TZID=America/Denver	2018-10-18 21:20:00-06:00	Broncos at Cardinals	University of Phoenix Stadium, 1 Cardinals Dr, Glendale, AZ 85305	
+TZID=America/Denver	2018-10-28 11:00:00-06:00	TZID=America/Denver	2018-10-28 14:00:00-06:00	Broncos at Chiefs	Arrowhead Stadium, 1 Arrowhead Dr, Kansas City, MO 64129	
+TZID=America/Denver	2018-11-04 14:05:00-07:00	TZID=America/Denver	2018-11-04 17:05:00-07:00	Broncos vs Texans	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-11-18 14:05:00-07:00	TZID=America/Denver	2018-11-18 17:05:00-07:00	Broncos at Chargers	StubHub Center, 18400 S Avalon Blvd, Carson, CA 90746	
+TZID=America/Denver	2018-11-25 14:25:00-07:00	TZID=America/Denver	2018-11-25 17:25:00-07:00	Broncos vs Steelers	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-12-02 11:00:00-07:00	TZID=America/Denver	2018-12-02 14:00:00-07:00	Broncos at Bengals	Paul Brown Stadium, 1 Paul Brown Stadium, Cincinnati, OH 45202	
+TZID=America/Denver	2018-12-09 14:05:00-07:00	TZID=America/Denver	2018-12-09 17:05:00-07:00	Broncos at 49ers	Levi's® Stadium, 4900 Marie P. DeBartolo Way, Santa Clara, CA	
+TZID=America/Denver	2018-12-15 14:30:00-07:00	TZID=America/Denver	2018-12-15 17:30:00-07:00	Broncos vs Browns	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
+TZID=America/Denver	2018-12-24 18:15:00-07:00	TZID=America/Denver	2018-12-24 21:15:00-07:00	Broncos at Raiders	Oakland-Alameda County Coliseum, 7000 Coliseum Way, Oakland, CA 94621	
+TZID=America/Denver	2018-12-30 14:25:00-07:00	TZID=America/Denver	2018-12-30 17:25:00-07:00	Broncos vs Chargers	Sports Authority Field at Mile High, 1701 Bryant St, Denver, CO 80204	
