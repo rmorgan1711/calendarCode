@@ -34,19 +34,24 @@ def InitCalWithPrelims():
 
 cal = InitCalWithPrelims()
 
+seq = 0
+
 event = Event()
 params = {"TZID":"America/Denver"}
-dt = datetime.datetime(2018, 8, 21, 10, 0, 0)
-event.add('dtstart', dt, params)
-
-dt = datetime.datetime(2018, 8, 21, 11, 0, 0)
-event.add('dtend', dt, params)
-
-seq = 0
+event.add('dtstart', datetime.datetime(2018, 8, 21, 10, 0, 0), params)
+event.add('dtend', datetime.datetime(2018, 8, 21, 11, 0, 0), params)
 event.add('sequence', seq)
 event.add('summary', 'Test publish update 1')
 event.add('uid', '2cba2310-8246-4408-985c-5b2bb067d248')
+cal.add_component(event)
 
+event = Event()
+params = {"TZID":"America/Denver"}
+event.add('dtstart', datetime.datetime(2018, 8, 22, 10, 0, 0), params)
+event.add('dtend', datetime.datetime(2018, 8, 22, 11, 0, 0), params)
+event.add('sequence', seq)
+event.add('summary', 'Test publish update 2')
+event.add('uid', '0dab10b8-e138-4ea4-aba3-e4816f912b35')
 cal.add_component(event)
 
 calPath = "/Users/Bowen/Documents/calendar/calendarCode/TestUpdate.ics"
