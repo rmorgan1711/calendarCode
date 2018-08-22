@@ -54,6 +54,6 @@ event.add('summary', 'Test publish update 2')
 event.add('uid', '0dab10b8-e138-4ea4-aba3-e4816f912b35')
 cal.add_component(event)
 
-calPath = "/Users/Bowen/Documents/calendar/calendarCode/TestUpdate.ics"
+calPath = "/Users/Bowen/Documents/calendar/calendarCode/TestUpdate/TestUpdate.ics"
 with open(calPath, 'wb') as f:
     f.write(cal.to_ical())
