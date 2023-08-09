@@ -1,0 +1,22 @@
+DTSTART	Params	DTEND	Params	SUMMARY	LOCATION
+2019-08-01 18:00:00-06:00	TZID=America/Denver	2019-08-01 21:00:00-06:00	TZID=America/Denver	Broncos @ Falcons	Mercedes-Benz Stadium, 1 AMB Drive NW Atlanta, GA 30313	
+2019-08-08 20:00:00-06:00	TZID=America/Denver	2019-08-08 23:00:00-06:00	TZID=America/Denver	Broncos @ Seahawks	CenturyLink Field, 800 Occidental Ave S, Seattle, WA 98134	
+2019-08-19 18:00:00-06:00	TZID=America/Denver	2019-08-19 21:00:00-06:00	TZID=America/Denver	49ers @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-08-24 19:00:00-06:00	TZID=America/Denver	2019-08-24 22:00:00-06:00	TZID=America/Denver	Broncos @ Rams	Los Angeles Coliseum, 3911 S Figueroa St, Los Angeles, CA 90037	
+2019-08-29 19:00:00-06:00	TZID=America/Denver	2019-08-29 22:00:00-06:00	TZID=America/Denver	Cardinals @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-09-09 20:20:00-06:00	TZID=America/Denver	2019-09-09 23:20:00-06:00	TZID=America/Denver	Broncos @ Raiders	Oakland-Alameda County Coliseum, 7000 Coliseum Way, Oakland, CA 94621	
+2019-09-15 14:25:00-06:00	TZID=America/Denver	2019-09-15 17:25:00-06:00	TZID=America/Denver	Bears @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-09-22 11:00:00-06:00	TZID=America/Denver	2019-09-22 14:00:00-06:00	TZID=America/Denver	Broncos @ Packers	Lambeau Field, 1265 Lombardi Ave, Green Bay, WI 54304	
+2019-09-29 14:25:00-06:00	TZID=America/Denver	2019-09-29 17:25:00-06:00	TZID=America/Denver	Jaguars @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-10-06 14:05:00-06:00	TZID=America/Denver	2019-10-06 17:05:00-06:00	TZID=America/Denver	Broncos @ Chargers	StubHub Center, 18400 S Avalon Blvd, Carson, CA 90746	
+2019-10-13 14:25:00-06:00	TZID=America/Denver	2019-10-13 17:25:00-06:00	TZID=America/Denver	Titans @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-10-17 18:20:00-06:00	TZID=America/Denver	2019-10-17 21:20:00-06:00	TZID=America/Denver	Chiefs @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-10-27 14:25:00-06:00	TZID=America/Denver	2019-10-27 17:25:00-06:00	TZID=America/Denver	Broncos @ Colts	Lucas Oil Stadium, 500 S Capitol Ave, Indianapolis, IN 46225	
+2019-11-03 14:25:00-07:00	TZID=America/Denver	2019-11-03 17:25:00-07:00	TZID=America/Denver	Browns @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-11-17 11:00:00-07:00	TZID=America/Denver	2019-11-17 14:00:00-07:00	TZID=America/Denver	Broncos @ Vikings	U.S. Bank Stadium, 401 Chicago Ave, Minneapolis, MN 55415	
+2019-11-24 11:00:00-07:00	TZID=America/Denver	2019-11-24 14:00:00-07:00	TZID=America/Denver	Broncos @ Bills	New Era Field, 1 Bills Dr, Orchard Park, NY 14127	
+2019-12-01 14:25:00-07:00	TZID=America/Denver	2019-12-01 17:25:00-07:00	TZID=America/Denver	Chargers @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-12-08 11:00:00-07:00	TZID=America/Denver	2019-12-08 14:00:00-07:00	TZID=America/Denver	Broncos @ Texans	NRG Stadium, Reliant Pkwy, Houston, TX 77054	
+2019-12-15 11:00:00-07:00	TZID=America/Denver	2019-12-15 14:00:00-07:00	TZID=America/Denver	Broncos @ Chiefs	Arrowhead Stadium, 1 Arrowhead Dr, Kansas City, MO 64129	
+2019-12-22 11:00:00-07:00	TZID=America/Denver	2019-12-22 14:00:00-07:00	TZID=America/Denver	Lions @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	
+2019-12-29 14:25:00-07:00	TZID=America/Denver	2019-12-29 17:25:00-07:00	TZID=America/Denver	Raiders @ Broncos	Broncos Stadium at Mile High, 1701 Bryant St, Denver, CO 80204	

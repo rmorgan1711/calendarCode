@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+NAME:Denver Broncos - Denver Broncos Schedule
+X-WR-CALNAME:Denver Broncos - Denver Broncos Schedule
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Falcons
+END:VALARM
+DTSTART:20190802T000000Z
+DTEND:20190802T030000Z
+UID:_YHDtpyJeMSk51qh75r8aU3j@stanza.co
+SUMMARY:Broncos at Falcons
+DESCRIPTION:Broncos at Falcons\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Stadium\, 1 AMB Drive NW Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Seahawks
+END:VALARM
+DTSTART:20190809T020000Z
+DTEND:20190809T050000Z
+UID:BHU-u2YXPcELk2dq6tgoD6WS@stanza.co
+SUMMARY:Broncos at Seahawks
+DESCRIPTION:Broncos at Seahawks\n\nBuy tickets here: https://stza.co/~FvJM?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs 49ers
+END:VALARM
+DTSTART:20190820T000000Z
+DTEND:20190820T030000Z
+UID:TNTchsYmIlFc22EnSbHaDTzs@stanza.co
+SUMMARY:Broncos vs 49ers
+DESCRIPTION:Broncos vs 49ers\n\nBuy tickets here: https://stza.co/~FvJO?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Rams
+END:VALARM
+DTSTART:20190825T010000Z
+DTEND:20190825T040000Z
+UID:7OZ8dQY2cewr-jxJuVDaab9D@stanza.co
+SUMMARY:Broncos at Rams
+DESCRIPTION:Broncos at Rams\n\nBuy tickets here: https://stza.co/~FvJP?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Cardinals
+END:VALARM
+DTSTART:20190830T010000Z
+DTEND:20190830T040000Z
+UID:rKbjFV5JWMK355mLEQeO3aqb@stanza.co
+SUMMARY:Broncos vs Cardinals
+DESCRIPTION:Broncos vs Cardinals\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Raiders
+END:VALARM
+DTSTART:20190910T022000Z
+DTEND:20190910T052000Z
+UID:1WDH_PM0yWcUyj9xpfgJ9icL@stanza.co
+SUMMARY:Broncos at Raiders
+DESCRIPTION:Broncos at Raiders\n\nBuy tickets here: https://stza.co/~F1oV?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Oakland-Alameda County Coliseum\, 7000 Coliseum Way\, Oakland\, CA 94621
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Bears
+END:VALARM
+DTSTART:20190915T202500Z
+DTEND:20190915T232500Z
+UID:xRHkpnefoHTC8EQHLyRz4xce@stanza.co
+SUMMARY:Broncos vs Bears
+DESCRIPTION:Broncos vs Bears\n\nBuy tickets here: https://stza.co/~F1oX?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Packers
+END:VALARM
+DTSTART:20190922T170000Z
+DTEND:20190922T200000Z
+UID:3SpA5joz6OOStNZn4bHVjEe-@stanza.co
+SUMMARY:Broncos at Packers
+DESCRIPTION:Broncos at Packers\n\nBuy tickets here: https://stza.co/~F1oY?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Jaguars
+END:VALARM
+DTSTART:20190929T202500Z
+DTEND:20190929T232500Z
+UID:28z41ZybPMEJYbDsmd-1j3-c@stanza.co
+SUMMARY:Broncos vs Jaguars
+DESCRIPTION:Broncos vs Jaguars\n\nBuy tickets here: https://stza.co/~F1oZ?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Chargers
+END:VALARM
+DTSTART:20191006T200500Z
+DTEND:20191006T230500Z
+UID:ouj-Tu1mbJup9sN-q7OdbFP7@stanza.co
+SUMMARY:Broncos at Chargers
+DESCRIPTION:Broncos at Chargers\n\nBuy tickets here: https://stza.co/~F1o$?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, 18400 S Avalon Blvd\, Carson\, CA 90746
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Titans
+END:VALARM
+DTSTART:20191013T202500Z
+DTEND:20191013T232500Z
+UID:mBvMDltITnKf-qSOGZgh6zSN@stanza.co
+SUMMARY:Broncos vs Titans
+DESCRIPTION:Broncos vs Titans\n\nBuy tickets here: https://stza.co/~F1p0?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Chiefs
+END:VALARM
+DTSTART:20191018T002000Z
+DTEND:20191018T032000Z
+UID:1-ASMmRasFhc9YaQjxJQS9Bj@stanza.co
+SUMMARY:Broncos vs Chiefs
+DESCRIPTION:Broncos vs Chiefs\n\nBuy tickets here: https://stza.co/~F1p2?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Colts
+END:VALARM
+DTSTART:20191027T202500Z
+DTEND:20191027T232500Z
+UID:mNVKsQNATCBcCs3c_V3cqIDX@stanza.co
+SUMMARY:Broncos at Colts
+DESCRIPTION:Broncos at Colts\n\nBuy tickets here: https://stza.co/~F1p4?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Browns
+END:VALARM
+DTSTART:20191103T212500Z
+DTEND:20191104T002500Z
+UID:VoO9PN3ZeQt2U6MsZvglIgqB@stanza.co
+SUMMARY:Broncos vs Browns
+DESCRIPTION:Broncos vs Browns\n\nBuy tickets here: https://stza.co/~F1p6?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Vikings
+END:VALARM
+DTSTART:20191117T180000Z
+DTEND:20191117T210000Z
+UID:meGU9vdhn1DE4xNtPDqXfmpg@stanza.co
+SUMMARY:Broncos at Vikings
+DESCRIPTION:Broncos at Vikings\n\nBuy tickets here: https://stza.co/~F1p7?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, 401 Chicago Ave\, Minneapolis\, MN 55415
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Bills
+END:VALARM
+DTSTART:20191124T180000Z
+DTEND:20191124T210000Z
+UID:buTaqXiKC9M_UEEt02a5Jbc_@stanza.co
+SUMMARY:Broncos at Bills
+DESCRIPTION:Broncos at Bills\n\nBuy tickets here: https://stza.co/~F1p8?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, 1 Bills Dr\, Orchard Park\, NY 14127
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Chargers
+END:VALARM
+DTSTART:20191201T212500Z
+DTEND:20191202T002500Z
+UID:-owdyJQv0t5ijDzCTl4ZJnGW@stanza.co
+SUMMARY:Broncos vs Chargers
+DESCRIPTION:Broncos vs Chargers\n\nBuy tickets here: https://stza.co/~F1p9?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Texans
+END:VALARM
+DTSTART:20191208T180000Z
+DTEND:20191208T210000Z
+UID:A_5nvEgREkjehEMr_WQ7wXCC@stanza.co
+SUMMARY:Broncos at Texans
+DESCRIPTION:Broncos at Texans\n\nBuy tickets here: https://stza.co/~F1pb?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Chiefs
+END:VALARM
+DTSTART:20191215T180000Z
+DTEND:20191215T210000Z
+UID:JpXzBQGQcvHxd-I4FNnVhtBB@stanza.co
+SUMMARY:Broncos at Chiefs
+DESCRIPTION:Broncos at Chiefs\n\nBuy tickets here: https://stza.co/~F1pc?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Lions
+END:VALARM
+DTSTART:20191222T180000Z
+DTEND:20191222T210000Z
+UID:DpbO8SqDrz_vjvGzp5CfYFiP@stanza.co
+SUMMARY:Broncos vs Lions
+DESCRIPTION:Broncos vs Lions\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Raiders
+END:VALARM
+DTSTART:20191229T212500Z
+DTEND:20191230T002500Z
+UID:7YYG_4zxUMVjNUJWzye0gw5L@stanza.co
+SUMMARY:Broncos vs Raiders
+DESCRIPTION:Broncos vs Raiders\n\nBuy tickets here: https://stza.co/~F1pf?trk=2nLW\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co?events)\n\nFor questions, check out our FAQs page: https://stanza.co/faqs
+LOCATION:Broncos Stadium at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20190525T221434Z
+CREATED:20190525T221434Z
+LAST-MODIFIED:20190525T221434Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

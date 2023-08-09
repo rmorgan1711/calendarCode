@@ -3,55 +3,46 @@ import icalendar
 from icalendar import Calendar
 from pytz import timezone
 
-def getDateInfo(component, field):
-    info = []    
-    date = component.get(field)
+import sys
+sys.path.append('/Users/Bowen/Documents/calendar/calendarCode/')
+import calMethods
 
-    paramStr = paramsToString(date.params)
-    if len(paramStr) > 0:
-        info.append(paramStr)
-        info.append(str(date.dt))
+def formatSummary(summaryComponent):
+    summaryParts = summaryComponent.split()
+
+    if summaryParts[1] == "at":
+        summaryParts[1] = "@"
     else:
-        tzStr = "America/Denver"
-        mountainTz = timezone(tzStr)
-        mt = date.dt.astimezone(mountainTz)
-        info.append("TZID=" + tzStr)
-        info.append(str(mt))        
+        tmp = summaryParts[0]
+        summaryParts[0] = summaryParts[2]
+        summaryParts[1] = "@"
+        summaryParts[2] = tmp
+        
     
-    return "\t".join(info)
+    return ' '.join(summaryParts)
 
-
-def paramsToString(parameters):
-    paramDict = parameters.items()
-    params = []
-    if len(paramDict) > 0:
-        for key, value in paramDict:
-            params.append(str(key) + "=" + str(value))
-            return ";".join(params)
-    else:
-        return ""
-
-calPath = '/Users/Bowen/Documents/calendar/calendarCode/Broncos/nfl-broncos_fromWeb.ics'
+workingDir = '/Users/Bowen/Documents/calendar/calendarCode/Broncos/'
+calPath = 'nfl-broncos-2019.ics'
 
 cal = None
 with open(calPath, 'rb') as f:
     cal = Calendar.from_ical(f.read())
 
 lines = []
-header = "Params\tDTSTART\tParams\tDTEND\tSUMMARY\tLOCATION"
+header = "DTSTART\tParams\tDTEND\tParams\tSUMMARY\tLOCATION"
 lines.append(header)
 for component in cal.walk():
     if component.name == "VEVENT":
         line = ""
-        line += getDateInfo(component, 'dtstart') + "\t"
-        line += getDateInfo(component, 'dtend') + "\t"
-        line += component.get('summary') + "\t"
+        line += calMethods.getDateInfo(component, 'dtstart') + "\t"
+        line += calMethods.getDateInfo(component, 'dtend') + "\t"
+        line += formatSummary(component.get('summary')) + "\t"
         line += component.get('location') + "\t"
         
         lines.append(line)
 
 
-outPath = '/Users/Bowen/Documents/calendar/calendarCode/Broncos/events.txt'
+outPath = workingDir + 'broncos-2019.txt'
 with open(outPath, 'w') as f:
     for line in lines:
         f.write(line + "\r\n")
